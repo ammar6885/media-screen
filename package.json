@@ -1,0 +1,22 @@
+{
+  "name": "media-screen",
+  "version": "1.0.0",
+  "description": "Control media query with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "media-screen",
+    "media",
+    "queries",
+    "css"
+  ],
+  "author": "Ammar Mourad",
+  "email": "amrmrdb51@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ammar6885/media-screen"
+  },
+  "license": "ISC"
+}
